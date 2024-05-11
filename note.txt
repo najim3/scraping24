@@ -1,0 +1,8 @@
+> it is recommended to find elements in this order:
+ id > class Name > tag name, css selector > Xpath
+> xpath not work in bs4.
+
+# bs4:
+> pip install bs4 requests lxml
+> https://subslikescript.com/movie/titanic-120338
+> after run beautyful.py we get the html code.
